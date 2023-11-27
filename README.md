@@ -9,7 +9,7 @@
 
 - 🔭 I’m currently working on [ALX SE Programme](https://www.alxafrica.com/)
 
-- 🌱 I’m currently learning **C programming**
+- 🌱 I’m currently learning **Python programming**
 
 - 👨‍💻 All of my projects are available at [https://github.com/nelsonwamalwa](https://github.com/nelsonwamalwa)
 

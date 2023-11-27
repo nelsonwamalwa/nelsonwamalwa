@@ -13,7 +13,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/nelsonwamalwa](https://github.com/nelsonwamalwa)
 
-- 💬 Ask me about **C and Shell**
+- 💬 Ask me about **C ,Python, CSS HTML and React**
 
 - 📫 How to reach me **wamalwanelson@gmail.com**
 
